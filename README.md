@@ -19,7 +19,7 @@ TODO (video)
 * [**2019-02-solaris-xscreensaver**](https://github.com/0xdea/raptor_infiltrate20/blob/main/advisories/2019-02-solaris-xscreensaver.txt). Local privilege escalation via xscreensaver (CVE-2019-3010).
 * [**2020-01-solaris-xlock**](https://github.com/0xdea/raptor_infiltrate20/blob/main/advisories/2020-01-solaris-xlock.txt). Low impact information disclosure via Solaris xlock (CVE-2020-2656).
 * [**2020-02-cde-dtsession**](https://github.com/0xdea/raptor_infiltrate20/blob/main/advisories/2020-02-cde-dtsession.txt). Local privilege escalation via CDE dtsession (CVE-2020-2696).
-* [**2020-05-cde-sdtcm_convert**](https://github.com/0xdea/raptor_infiltrate20/main/advisories/2020-05-cde-sdtcm_convert.txt). Local privilege escalation via CDE sdtcm_convert (CVE-2020-2944).
+* [**2020-05-cde-sdtcm_convert**](https://github.com/0xdea/raptor_infiltrate20/blob/main/advisories/2020-05-cde-sdtcm_convert.txt). Local privilege escalation via CDE sdtcm_convert (CVE-2020-2944).
 * [**2020-06-cde-libDtSvc**](https://github.com/0xdea/raptor_infiltrate20/blob/main/advisories/2020-06-cde-libDtSvc.txt). Stack-based buffer overflow in CDE libDtSvc (CVE-2020-2851).
 * [**2020-07-solaris-whodo-w**](https://github.com/0xdea/raptor_infiltrate20/blob/main/advisories/2020-07-solaris-whodo-w.txt). Heap-based buffer overflow in Solaris whodo and w commands (CVE-2020-2771).
 
