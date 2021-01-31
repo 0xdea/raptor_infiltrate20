@@ -9,7 +9,7 @@
 >
 > -- Encyclopedia of Animal Life
 
-This repository contains all materials related to my talk *"The INFILTRATE effect: 6 bugs in 6 months"* presented at #INFILTRATE20 on January 19, 2021.
+This repository contains all materials related to my talk *"The INFILTRATE effect: 6 bugs in 6 months"* presented at #INFILTRATE20 on January 26, 2021.
 
 Related links:  
 TODO (blog post)  
