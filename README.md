@@ -12,8 +12,7 @@
 This repository contains all materials related to my talk *"The INFILTRATE effect: 6 bugs in 6 months"* presented at #INFILTRATE20 on January 26, 2021.
 
 Related links:  
-TODO (blog post)  
-TODO (video)
+https://vimeo.com/474793702 (video)  
 
 ## advisories
 * [**2019-02-solaris-xscreensaver**](https://github.com/0xdea/raptor_infiltrate20/blob/main/advisories/2019-02-solaris-xscreensaver.txt). Local privilege escalation via xscreensaver (CVE-2019-3010).
@@ -36,4 +35,3 @@ TODO (video)
 ## slides
 * [**6bugs.pdf**](https://github.com/0xdea/raptor_infiltrate20/blob/main/slides/6bugs.pdf). Slide deck presented at #INFILTRATE20 (PDF version).
 * [**6bugs.pptx**](https://github.com/0xdea/raptor_infiltrate20/blob/main/slides/6bugs.pptx). Slide deck presented at #INFILTRATE20 (PowerPoint version).
-* **TODO: add files**
