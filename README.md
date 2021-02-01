@@ -31,7 +31,7 @@ TODO (video)
 * [**raptor_dtprintcheckdir_intel.c**](https://github.com/0xdea/raptor_infiltrate20/blob/main/exploits/raptor_dtprintcheckdir_intel.c). Solaris 10 (0day?). Another buffer overflow in CDE dtprintinfo (Intel, ROP).
 * [**raptor_dtprintcheckdir_intel2.c**](https://github.com/0xdea/raptor_infiltrate20/blob/main/exploits/raptor_dtprintcheckdir_intel2.c). Solaris 10 (0day?). Format string bug in CDE dtprintinfo (Intel, ROP).
 * [**raptor_dtprintcheckdir_sparc.c**](https://github.com/0xdea/raptor_infiltrate20/blob/main/exploits/raptor_dtprintcheckdir_sparc.c). Solaris 10 (0day?). Format string bug in CDE dtprintinfo (SPARC PoC, ROP).
-* [**raptor_dtprintcheckdir_sparc2.c**](https://github.com/0xdea/raptor_infiltrate20/blob/main/exploits/raptor_dtprintcheckdir_spar2c.c). Solaris 10 (0day?). Format string bug in CDE dtprintinfo (SPARC, ROP).
+* [**raptor_dtprintcheckdir_sparc2.c**](https://github.com/0xdea/raptor_infiltrate20/blob/main/exploits/raptor_dtprintcheckdir_sparc2.c). Solaris 10 (0day?). Format string bug in CDE dtprintinfo (SPARC, ROP).
 
 ## slides
 * [**6bugs.pdf**](https://github.com/0xdea/raptor_infiltrate20/blob/main/slides/6bugs.pdf). Slide deck presented at #INFILTRATE20 (PDF version).
