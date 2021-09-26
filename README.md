@@ -24,13 +24,13 @@ https://vimeo.com/474793702 (video)
 
 ## exploits
 * [**raptor_xscreensaver**](https://github.com/0xdea/raptor_infiltrate20/blob/main/exploits/raptor_xscreensaver). Solaris 11.x (CVE-2019-3010). Local privilege escalation via xscreensaver.
-* [**raptor_session_ipa.c**](https://github.com/0xdea/raptor_infiltrate20/blob/main/exploits/raptor_dtsession_ipa.c). Solaris 10 (CVE-2020-2696). Local privilege escalation via CDE dtsession (Intel, ROP).
-* [**raptor_sdtcm_conv.c**](https://github.com/0xdea/raptor_infiltrate20/blob/main/exploits/raptor_sdtcm_conv.c). Solaris 10 (CVE-2020-2944). Local privilege escalation via CDE sdtcm_convert (Intel, ROP).
-* [**raptor_dtprintname_sparc3.c**](https://github.com/0xdea/raptor_infiltrate20/blob/main/exploits/raptor_dtprintname_sparc3.c). Solaris 10 (CVE-2019-2832). Buffer overflow in CDE dtprintinfo (SPARC, ROP).
-* [**raptor_dtprintcheckdir_intel.c**](https://github.com/0xdea/raptor_infiltrate20/blob/main/exploits/raptor_dtprintcheckdir_intel.c). Solaris 10 (0day?). Another buffer overflow in CDE dtprintinfo (Intel, ROP).
-* [**raptor_dtprintcheckdir_intel2.c**](https://github.com/0xdea/raptor_infiltrate20/blob/main/exploits/raptor_dtprintcheckdir_intel2.c). Solaris 10 (0day?). Format string bug in CDE dtprintinfo (Intel, ROP).
-* [**raptor_dtprintcheckdir_sparc.c**](https://github.com/0xdea/raptor_infiltrate20/blob/main/exploits/raptor_dtprintcheckdir_sparc.c). Solaris 10 (0day?). Format string bug in CDE dtprintinfo (SPARC PoC, ROP).
-* [**raptor_dtprintcheckdir_sparc2.c**](https://github.com/0xdea/raptor_infiltrate20/blob/main/exploits/raptor_dtprintcheckdir_sparc2.c). Solaris 10 (0day?). Format string bug in CDE dtprintinfo (SPARC, ROP).
+* [**raptor_session_ipa.c**](https://github.com/0xdea/raptor_infiltrate20/blob/main/exploits/raptor_dtsession_ipa.c). Solaris 10 (CVE-2020-2696). Local privilege escalation via CDE dtsession (Intel, NX).
+* [**raptor_sdtcm_conv.c**](https://github.com/0xdea/raptor_infiltrate20/blob/main/exploits/raptor_sdtcm_conv.c). Solaris 10 (CVE-2020-2944). Local privilege escalation via CDE sdtcm_convert (Intel, NX).
+* [**raptor_dtprintname_sparc3.c**](https://github.com/0xdea/raptor_infiltrate20/blob/main/exploits/raptor_dtprintname_sparc3.c). Solaris 10 (CVE-2019-2832). Buffer overflow in CDE dtprintinfo (SPARC, NX).
+* [**raptor_dtprintcheckdir_intel.c**](https://github.com/0xdea/raptor_infiltrate20/blob/main/exploits/raptor_dtprintcheckdir_intel.c). Solaris 10 (0day?). Another buffer overflow in CDE dtprintinfo (Intel, NX).
+* [**raptor_dtprintcheckdir_intel2.c**](https://github.com/0xdea/raptor_infiltrate20/blob/main/exploits/raptor_dtprintcheckdir_intel2.c). Solaris 10 (0day?). Format string bug in CDE dtprintinfo (Intel, NX).
+* [**raptor_dtprintcheckdir_sparc.c**](https://github.com/0xdea/raptor_infiltrate20/blob/main/exploits/raptor_dtprintcheckdir_sparc.c). Solaris 10 (0day?). Format string bug in CDE dtprintinfo (SPARC PoC, NX).
+* [**raptor_dtprintcheckdir_sparc2.c**](https://github.com/0xdea/raptor_infiltrate20/blob/main/exploits/raptor_dtprintcheckdir_sparc2.c). Solaris 10 (0day?). Format string bug in CDE dtprintinfo (SPARC, NX).
 
 ## slides
 * [**6bugs.pdf**](https://github.com/0xdea/raptor_infiltrate20/blob/main/slides/6bugs.pdf). Slide deck presented at #INFILTRATE20 (PDF version).
