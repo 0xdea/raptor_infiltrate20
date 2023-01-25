@@ -4,6 +4,7 @@
 [![](https://img.shields.io/github/watchers/0xdea/raptor_infiltrate20.svg?color=red)](https://github.com/0xdea/raptor_infiltrate20)
 [![](https://img.shields.io/badge/license-MIT%20License-red.svg?color=lightgray)](https://opensource.org/licenses/MIT) 
 [![](https://img.shields.io/badge/twitter-%400xdea-blue.svg)](https://twitter.com/0xdea)
+[![](https://img.shields.io/badge/mastodon-%40raptor-purple.svg)](https://infosec.exchange/@raptor)
 
 > "Bugs are by far the largest and most successful class of entity."
 >
