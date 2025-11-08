@@ -13,7 +13,7 @@
 This repository contains all materials related to my talk *"The INFILTRATE effect: 6 bugs in 6 months"* presented at #INFILTRATE20 on January 26, 2021.
 
 Related links:  
-<https://hnsecurity.it/blog/the-infiltrate-effect-6-bugs-in-6-months/> (blog post)
+<https://hnsecurity.it/blog/the-infiltrate-effect-6-bugs-in-6-months/> (blog post)  
 <https://vimeo.com/474793702> (video)  
 
 ## advisories
