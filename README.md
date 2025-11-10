@@ -12,11 +12,14 @@
 
 This repository contains all materials related to my talk *"The INFILTRATE effect: 6 bugs in 6 months"* presented at #INFILTRATE20 on January 26, 2021.
 
-Related links:  
-<https://hnsecurity.it/blog/the-infiltrate-effect-6-bugs-in-6-months/> (blog)  
-<https://vimeo.com/474793702> (video)  
+## Related links
 
-## advisories
+* <https://hnsecurity.it/blog/the-infiltrate-effect-6-bugs-in-6-months/> (blog)
+* <https://vimeo.com/474793702> (video)
+
+## Party pack
+
+### advisories
 
 * [**2019-02-solaris-xscreensaver**](advisories/2019-02-solaris-xscreensaver.txt). Local privilege escalation via xscreensaver (CVE-2019-3010).
 * [**2020-01-solaris-xlock**](advisories/2020-01-solaris-xlock.txt). Low impact information disclosure via Solaris xlock (CVE-2020-2656).
@@ -25,7 +28,7 @@ Related links:
 * [**2020-06-cde-libDtSvc**](advisories/2020-06-cde-libDtSvc.txt). Stack-based buffer overflow in CDE libDtSvc (CVE-2020-2851).
 * [**2020-07-solaris-whodo-w**](advisories/2020-07-solaris-whodo-w.txt). Heap-based buffer overflow in Solaris whodo, w commands (CVE-2020-2771).
 
-## exploits
+### exploits
 
 * [**raptor_xscreensaver**](exploits/raptor_xscreensaver). Solaris 11.x (CVE-2019-3010). Local privilege escalation via xscreensaver.
 * [**raptor_session_ipa.c**](exploits/raptor_dtsession_ipa.c). Solaris 10 (CVE-2020-2696). Local privilege escalation via CDE dtsession (Intel).
@@ -36,7 +39,7 @@ Related links:
 * [**raptor_dtprintcheckdir_sparc.c**](exploits/raptor_dtprintcheckdir_sparc.c). Solaris 10 (0day?). Format string bug in CDE dtprintinfo (SPARC PoC).
 * [**raptor_dtprintcheckdir_sparc2.c**](exploits/raptor_dtprintcheckdir_sparc2.c). Solaris 10 (0day?). Format string bug in CDE dtprintinfo (SPARC).
 
-## slides
+### slides
 
 * [**6bugs.pdf**](slides/6bugs.pdf). Slide deck presented at #INFILTRATE20 (PDF version).
 * [**6bugs.pptx**](slides/6bugs.pptx). Slide deck presented at #INFILTRATE20 (PowerPoint version).
